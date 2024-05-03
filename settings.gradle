@@ -6,3 +6,4 @@
  */
 
 rootProject.name = 'Sandboxx'
+include 'addressbook'
